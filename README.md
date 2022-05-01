@@ -4,7 +4,7 @@ Hi 👋 My name is Novian dwi syahrizal hilmi
 Front-End Developer
 -------------------
 
-I’m a fresh graduate of State University of Malang. I studied informatics engineering education. Since 2017 I have a side job as a freelancer focusing on Web Development. After graduated, I took several courses to learn more about Frontend Development.
+I’m a fresh graduate of State University of Malang. I studied informatics engineering education. Since 2017 I have a side job as a freelancer focusing on Web Development.
 
 * 🌍  I'm based in Gresik
 * 🖥️  See my portfolio at [noviandsh.com](http://noviandsh.com)
