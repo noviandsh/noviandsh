@@ -7,7 +7,7 @@ Front-End Developer
 I’m a fresh graduate of State University of Malang. I studied informatics engineering education. Since 2017 I have a side job as a freelancer focusing on Web Development.
 
 * 🌍  I'm based in Gresik
-* 🖥️  See my portfolio at [noviandsh.com](http://noviandsh.com)
+* 🖥️  See my portfolio at [noviandsh.com](http://noviandsh.my.id)
 * ✉️  You can contact me at [noviandsh@gmail.com](mailto:noviandsh@gmail.com)
 * 🧠  I'm learning tailwind css
 
